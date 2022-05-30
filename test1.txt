@@ -1,0 +1,4 @@
+1) Hello, my first text in repo!
+2) I`ll push it!
+3) Yo-ho-ho )
+
