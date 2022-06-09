@@ -2,3 +2,5 @@
 2) I`ll push it!
 3) Yo-ho-ho )
 
+a) this line is a changes that is made by other developer. 
+Pushed in repo, but not in my local file ))))
