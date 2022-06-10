@@ -6,3 +6,4 @@
 
 
 6. test line to be different
+6. img_6.png
